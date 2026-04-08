@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/aem-refresh/:/",
+    "/content/aem-refresh/configuration:/.helix/config.json",
+    "/content/aem-refresh/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aem-refresh/"
   ]
 }
